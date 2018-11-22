@@ -1,0 +1,10 @@
+E:\Programming\visual\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+E:\Programming\visual\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+E:\Programming\visual\lab6\lab6\bin\Debug\lab6.exe.config
+E:\Programming\visual\lab6\lab6\bin\Debug\lab6.exe
+E:\Programming\visual\lab6\lab6\bin\Debug\lab6.pdb
+E:\Programming\visual\lab6\lab6\bin\Debug\ClassLibrary1.dll
+E:\Programming\visual\lab6\lab6\bin\Debug\ClassLibrary1.pdb
+E:\Programming\visual\lab6\lab6\obj\Debug\lab6.csproj.CopyComplete
+E:\Programming\visual\lab6\lab6\obj\Debug\lab6.exe
+E:\Programming\visual\lab6\lab6\obj\Debug\lab6.pdb
